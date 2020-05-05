@@ -1,0 +1,94 @@
+@font-face {
+  font-family: 'Gilroy';
+  src: url('Gilroy-Regular.eot');
+  src: local('Gilroy Regular'), local('Gilroy-Regular'),
+    url('Gilroy-Regular.eot?#iefix') format('embedded-opentype'),
+    url('Gilroy-Regular.woff2') format('woff2'),
+    url('Gilroy-Regular.woff') format('woff'),
+    url('Gilroy-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url('Gilroy-Bold.eot');
+  src: local('Gilroy Bold'), local('Gilroy-Bold'),
+    url('Gilroy-Bold.eot?#iefix') format('embedded-opentype'),
+    url('Gilroy-Bold.woff2') format('woff2'),
+    url('Gilroy-Bold.woff') format('woff'),
+    url('Gilroy-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url('Gilroy-Medium.eot');
+  src: local('Gilroy Medium'), local('Gilroy-Medium'),
+    url('Gilroy-Medium.eot?#iefix') format('embedded-opentype'),
+    url('Gilroy-Medium.woff2') format('woff2'),
+    url('Gilroy-Medium.woff') format('woff'),
+    url('Gilroy-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url('Gilroy-MediumItalic.eot');
+  src: local('Gilroy Medium Italic'), local('Gilroy-MediumItalic'),
+    url('Gilroy-MediumItalic.eot?#iefix') format('embedded-opentype'),
+    url('Gilroy-MediumItalic.woff2') format('woff2'),
+    url('Gilroy-MediumItalic.woff') format('woff'),
+    url('Gilroy-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url('Gilroy-RegularItalic.eot');
+  src: local('Gilroy Regular Italic'), local('Gilroy-RegularItalic'),
+    url('Gilroy-RegularItalic.eot?#iefix') format('embedded-opentype'),
+    url('Gilroy-RegularItalic.woff2') format('woff2'),
+    url('Gilroy-RegularItalic.woff') format('woff'),
+    url('Gilroy-RegularItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+body {
+  font-family: 'Gilroy', sans-serif;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 36.5px;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+.KnownTruth {
+  appearance: none;
+border: 0;
+border-radius: 5px;
+background: #4676D7;
+color: #fff;
+padding: 8px 16px;
+font-size: 16px;
+  text-decoration: none;
+}
+
+.KnownTruth:hover {
+
+}
