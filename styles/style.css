@@ -7,7 +7,7 @@ body {
   position: fixed;
   background-color: #FFF;
   width: 100%;
-  /* max-width: 1176; */
+  max-width: 1176;
   padding-top: 24px;
   padding-left: 145px;
   padding-right: 130px;
@@ -41,6 +41,7 @@ body {
 
 .nav_button {
   background-color: #000;
+  color: #fff !important;
   border-radius: 8px;
   border: none;
   padding: 6px 26px;
@@ -53,7 +54,6 @@ body {
 .logo {
   display: flex;
   align-items: center;
-
 }
 
 .logo_img {
@@ -63,20 +63,15 @@ body {
   margin-left: 7px;
   margin-right: 90px;
   background-image: url(../img/logo.svg);
-} 
+}
 
+.a-link:hover {
+  color: #089216 !important;
+}
 
-
-
-
-
-
-
-
-
-
-
-
+.nav_button:hover {
+  background-color: #089216;
+}
 
 @font-face {
   font-family: 'Gilroy';
@@ -125,7 +120,6 @@ body {
   font-weight: 500;
   font-style: italic;
 }
-
 
 @font-face {
   font-family: 'Gilroy';
