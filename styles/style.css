@@ -9,6 +9,7 @@ body {
 }
 
 .header {
+  z-index: 9;
   display: flex;
   position: fixed;
   background-color: #FFF;
@@ -20,6 +21,41 @@ body {
   padding-top: 17px;
   padding-left: 120px;
   padding-right: 130px;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+}
+
+.main_information {
+  display: flex;
+  justify-content: center;
+  padding-top: 26px;
+  padding-bottom: 42px;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 14.5px;
+}
+
+.instagram {
+  padding: 10px;
+}
+
+.vk {
+  padding: 10px;
+}
+
+.facebook {
+  padding: 10px;
+}
+
+.telegram {
+  padding: 10px;
+}
+
+.youtube {
+  padding: 10px;
 }
 
 .wrap {
@@ -116,7 +152,7 @@ h2 {
   font-weight: 500;
   margin-left: 576px;
   margin-top: -39px;
-  z-index: 9;
+  z-index: 8;
   position: absolute;
 }
 
@@ -134,7 +170,7 @@ h4 {
   margin-left: -25px;
   margin-top: 135px;
   position: absolute;
-  z-index: 9;
+  z-index: 8;
 }
 
 h5 {
@@ -142,7 +178,7 @@ h5 {
   font-weight: 500;
   margin-left: 574px;
   margin-top: -14px;
-  z-index: 9;
+  z-index: 8;
   position: absolute;
 }
 
@@ -243,7 +279,7 @@ h5 {
   font-size: 18px;
   line-height: 24.5px;
   font-weight: 500;
-  margin-left: 880px;
+  margin-left: 879px;
   margin-top: 19px;
 }
 
@@ -488,6 +524,15 @@ h5 {
   width: 1380px;
 }
 
+#line_17 {
+  border-top: 1px solid #000;
+  margin-top: 178px;
+margin-left: 5px;
+margin-bottom: 65px;
+  margin-right: 1px;
+  width: 1380px;
+}
+
 .img_first {
   margin-top: -342px;
   margin-left: 605px;
@@ -570,6 +615,23 @@ h5 {
   margin-top: -33px;
 }
 
+/*
+.subscribe {
+  width: auto;
+  max-width: 1300px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 64px;
+  padding-right: 64px;
+  min-height: 100px;
+    position: relative;
+    padding: 18px 24px 24px;
+    border: 2px dashed #000;
+    margin: 30px 0 38px;
+    border-radius: 8px;
+} */
+
 @font-face {
   font-family: 'Gilroy';
   src: url('Gilroy-Regular.eot');
@@ -629,16 +691,3 @@ h5 {
   font-weight: normal;
   font-style: italic;
 }
-
-/*
-h2 {
-  font-size: 32px;
-}
-
-h3 {
-  font-size: 36.5px;
-}
-
-h1, h2, h3 {
-  font-weight: bold;
-} */
