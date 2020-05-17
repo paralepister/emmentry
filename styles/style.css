@@ -42,20 +42,40 @@ body {
   padding: 10px;
 }
 
+.instagram:hover {
+  opacity: 0.8;
+}
+
 .vk {
   padding: 10px;
+}
+
+.vk:hover {
+  opacity: 0.8;
 }
 
 .facebook {
   padding: 10px;
 }
 
+.facebook:hover {
+  opacity: 0.8;
+}
+
 .telegram {
   padding: 10px;
 }
 
+.telegram:hover {
+  opacity: 0.8;
+}
+
 .youtube {
   padding: 10px;
+}
+
+.youtube:hover {
+  opacity: 0.8;
 }
 
 .wrap {
