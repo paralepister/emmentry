@@ -122,7 +122,7 @@ h2 {
 
 h3 {
   font-size: 35px;
-  line-height: 34px;
+  line-height: 37px;
   font-weight: bold;
 }
 
@@ -132,7 +132,7 @@ h4 {
   font-weight: bold;
   color: #fff;
   margin-left: -25px;
-  margin-top: 135px;
+  margin-top: 100px;
   position: absolute;
   z-index: 8;
 }
@@ -158,25 +158,25 @@ h6 {
   z-index: 9;
   color: #fff;
   margin-left: -25px;
-  margin-top: 186px;
+  margin-top: 156px;
   font-size: 20px;
-  line-height: 21.5px;
+  line-height: 22px;
   font-style: italic;
 }
 
 .h3_first {
   margin-left: 660px;
-  margin-top: 16px;
+  margin-top: 32px;
 }
 
 .h3_second {
   margin-left: -25px;
-  margin-top: 27px;
+  margin-top: 37px;
 }
 
 .h3_fifth {
   margin-left: -69px;
-  margin-top: 31px;
+  margin-top: 37px;
 }
 
 .h3_sixth {
@@ -191,31 +191,32 @@ h6 {
 
 .h3_eighth {
   margin-left: 656px;
-  margin-top: 45px;
+  margin-top: 53px;
 }
 
 .h3_ninth {
   margin-left: -25px;
-  margin-top: 45px;
+  margin-top: 53px;
 }
 
 .h3_tenth {
   margin-left: 655px;
-  margin-top: 45px;
+  margin-top: 53px;
 }
 
 .h3_eleventh {
   margin-left: -25px;
-  margin-top: 45px;
+  margin-top: 53px;
 }
 
 .h3_twelfth {
   margin-left: 655px;
-  margin-top: 43px;
+  margin-top: 50px;
 }
 
 .description_first_h3_first {
   font-size: 20px;
+  line-height: 22px;
   font-weight: 500;
   font-style: italic;
   margin-left: 660px;
@@ -224,6 +225,7 @@ h6 {
 
 .description_first_h3_second {
   font-size: 20px;
+  line-height: 22px;
   font-weight: 500;
   font-style: italic;
   margin-left: -24px;
@@ -232,7 +234,7 @@ h6 {
 
 .description_fifth_h3_second {
   font-size: 18px;
-  line-height: 24.5px;
+  line-height: 20px;
   font-weight: 500;
   margin-left: -69px;
   margin-top: 19px;
@@ -240,7 +242,7 @@ h6 {
 
 .description_sixth_h3_second {
   font-size: 18px;
-  line-height: 24.5px;
+  line-height: 20px;
   font-weight: 500;
   margin-left: 405px;
   margin-top: 19px;
@@ -248,7 +250,7 @@ h6 {
 
 .description_seventh_h3_second {
   font-size: 18px;
-  line-height: 24.5px;
+  line-height: 20px;
   font-weight: 500;
   margin-left: 879px;
   margin-top: 19px;
@@ -259,7 +261,7 @@ h6 {
   line-height: 18px;
   font-weight: 500;
   margin-left: 660px;
-  margin-top: 328px;
+  margin-top: 299px;
 }
 
 .description_first_h3_second_2 {
@@ -267,11 +269,12 @@ h6 {
   line-height: 18px;
   font-weight: 500;
   margin-left: -22px;
-  margin-top: 333px;
+  margin-top: 299px;
 }
 
 .description_eighth_h3_first {
   font-size: 20px;
+  line-height: 22px;
   font-weight: 500;
   font-style: italic;
   margin-left: 660px;
@@ -283,11 +286,12 @@ h6 {
   line-height: 18px;
   font-weight: 500;
   margin-left: 658px;
-  margin-top: 291px;
+  margin-top: 259px;
 }
 
 .description_ninth_h3_first {
   font-size: 20px;
+  line-height: 22px;
   font-weight: 500;
   font-style: italic;
   margin-left: -24px;
@@ -296,6 +300,7 @@ h6 {
 
 .description_tenth_h3_first {
   font-size: 20px;
+  line-height: 22px;
   font-weight: 500;
   font-style: italic;
   margin-left: 654px;
@@ -305,6 +310,7 @@ h6 {
 .description_eleventh_h3_first {
   font-size: 20px;
   font-weight: 500;
+  line-height: 22px;
   font-style: italic;
   margin-left: -26px;
   margin-top: 20px;
@@ -313,6 +319,7 @@ h6 {
 .description_twelfth_h3_first {
   font-size: 20px;
   font-weight: 500;
+  line-height: 22px;
   font-style: italic;
   margin-left: 654px;
   margin-top: 20px;
@@ -331,7 +338,7 @@ h6 {
   line-height: 18px;
   font-weight: 500;
   margin-left: 658px;
-  margin-top: 304px;
+  margin-top: 284px;
 }
 
 .description_eleventh_h3_second_2 {
@@ -339,7 +346,7 @@ h6 {
   line-height: 18px;
   font-weight: 500;
   margin-left: -22px;
-  margin-top: 327px;
+  margin-top: 303px;
 }
 
 .description_twelfth_h3_second_2 {
@@ -347,7 +354,7 @@ h6 {
   line-height: 18px;
   font-weight: 500;
   margin-left: 658px;
-  margin-top: 328px;
+  margin-top: 309px;
 }
 
 .description_ninth_h3_first_2 {
@@ -355,12 +362,12 @@ h6 {
   line-height: 18px;
   font-weight: 500;
   margin-left: -22px;
-  margin-top: 326px;
+  margin-top: 298px;
 }
 
 .h1_description {
   margin-top: 30px;
-  line-height: 31px;
+  line-height: 32px;
   font-size: 25px;
   margin-bottom: 80px;
 }
@@ -401,7 +408,7 @@ h6 {
 
 #line_5 {
   border-top: 1px solid #000;
-  margin-top: 30px;
+  margin-top: 39px;
   margin-left: -73px;
   margin-right: 1px;
   width: 1380px;
@@ -409,7 +416,7 @@ h6 {
 
 #line_6 {
   border-top: 1px solid #000;
-  margin-top: 22px;
+  margin-top: 40px;
   margin-left: -73px;
   margin-right: 1px;
   width: 1380px;
@@ -425,7 +432,7 @@ h6 {
 
 #line_8 {
   border-top: 1px solid #000;
-  margin-top: 371px;
+  margin-top: 296px;
   margin-left: -73px;
   margin-right: 1px;
   width: 1380px;
@@ -441,7 +448,7 @@ h6 {
 
 #line_10 {
   border-top: 1px solid #000;
-  margin-top: 558px;
+  margin-top: 570px;
   margin-left: -73px;
   margin-right: 1px;
   width: 1380px;
@@ -457,7 +464,7 @@ h6 {
 
 #line_12 {
   border-top: 1px solid #000;
-  margin-top: 32px;
+  margin-top: 42px;
   margin-left: -73px;
   margin-right: 1px;
   width: 1380px;
@@ -465,7 +472,7 @@ h6 {
 
 #line_13 {
   border-top: 1px solid #000;
-  margin-top: 28px;
+  margin-top: 43px;
   margin-left: -73px;
   margin-right: 1px;
   width: 1380px;
@@ -473,7 +480,7 @@ h6 {
 
 #line_14 {
   border-top: 1px solid #000;
-  margin-top: 5px;
+  margin-top: 8px;
   margin-left: -73px;
   margin-right: 1px;
   width: 1380px;
@@ -520,20 +527,20 @@ h6 {
 
 .img_second {
   margin-top: -625px;
-  margin-bottom: 15px;
+  margin-bottom: 7px;
   margin-left: -74px;
 }
 
 .img_third {
   margin-top: -481px;
   margin-left: 608px;
-  margin-bottom: 23px;
+  margin-bottom: 7px;
 }
 
 .img_fourth {
   margin-top: -432px;
   margin-left: -72px;
-  margin-bottom: -290px;
+  margin-bottom: -252px;
 }
 
 .img_fifth {
@@ -553,30 +560,30 @@ h6 {
 
 .img_eighth {
   margin-top: -476px;
-  margin-bottom: 15px;
+  margin-bottom: 6px;
   margin-left: -71px;
 }
 
 .img_ninth {
   margin-top: -476px;
-  margin-bottom: 15px;
+  margin-bottom: -1px;
   margin-left: 606px;
 }
 
 .img_tenth {
-  margin-top: -475px;
+  margin-top: -467px;
   margin-bottom: 38px;
   margin-left: -72px;
 }
 
 .img_eleventh {
-  margin-top: -475px;
+  margin-top: -467px;
   margin-bottom: 38px;
   margin-left: 605px;
 }
 
 .img_twelfth {
-  margin-top: -477px;
+  margin-top: -471px;
   margin-bottom: 38px;
   margin-left: -87px;
 }
