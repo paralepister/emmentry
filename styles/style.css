@@ -712,3 +712,11 @@ h6 {
   margin-left: 365px;
   margin-top: -63px;
 }
+
+@media only screen and (min-device-width: 1024px) {
+  /* .header {
+    font-size: 15px;
+    padding-left: 90px;
+    padding-right: 90px;
+  } */
+}
