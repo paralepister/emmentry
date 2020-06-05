@@ -73,8 +73,6 @@ body {
 
 @media screen and (max-width: 1024px) {
   .nav>li>a {
-    text-decoration: none;
-    color: #000;
     margin-right: -10px;
   }
 }
