@@ -1,13 +1,9 @@
-
 /* @media screen and (min-width: 480px) { больше чем 480 — меняется
     body {
         background-color: lightgreen;
     }
 } */
-
-@media screen and (max-width: 1024px) {
-
-}
+@media screen and (max-width: 1024px) {}
 
 html {
   display: flex;
@@ -34,10 +30,10 @@ body {
 }
 
 @media screen and (max-width: 1024px) {
-.header {
-padding-left: 150px;
-padding-right: 135px;
-}
+  .header {
+    padding-left: 150px;
+    padding-right: 135px;
+  }
 }
 
 .wrap {
@@ -64,10 +60,10 @@ padding-right: 135px;
 }
 
 @media screen and (max-width: 1024px) {
-.nav>li {
-  margin-left: 110px;
-  margin-right: -8px;
-}
+  .nav>li {
+    margin-left: 110px;
+    margin-right: -8px;
+  }
 }
 
 .nav>li>a {
@@ -76,11 +72,11 @@ padding-right: 135px;
 }
 
 @media screen and (max-width: 1024px) {
-.nav>li>a {
-text-decoration: none;
-color: #000;
-margin-right: -10px;
-}
+  .nav>li>a {
+    text-decoration: none;
+    color: #000;
+    margin-right: -10px;
+  }
 }
 
 .nav_button {
@@ -109,7 +105,7 @@ margin-right: -10px;
 }
 
 @media screen and (max-width: 1024px) {
-.logo_img {
+  .logo_img {
     margin-left: 137px;
     margin-right: 1px;
   }
@@ -152,7 +148,7 @@ h1 {
 }
 
 @media screen and (max-width: 1024px) {
-h1 {
+  h1 {
     font-size: 46px;
     line-height: 42px;
     padding-left: 150px;
@@ -169,7 +165,9 @@ h2 {
   position: absolute;
 }
 
-@media screen and (max-width: 1024px) { /* меньше чем 480 — меняется */
+@media screen and (max-width: 1024px) {
+
+  /* меньше чем 480 — меняется */
   h2 {
     margin-left: 670px;
     margin-top: -39px;
@@ -196,7 +194,6 @@ h4 {
 @media screen and (min-width: 1024px) {
   h4 {
     color: #000;
-
   }
 }
 
@@ -233,10 +230,10 @@ h6 {
 }
 
 @media screen and (max-width: 1024px) {
-.h3_first {
+  .h3_first {
     margin-left: 720px;
     margin-top: 32px;
-}
+  }
 }
 
 .h3_second {
@@ -294,7 +291,7 @@ h6 {
 }
 
 @media screen and (max-width: 1024px) {
-.description_first_h3_first {
+  .description_first_h3_first {
     margin-left: 720px;
     margin-top: 20px;
   }
@@ -342,10 +339,10 @@ h6 {
 }
 
 @media screen and (max-width: 1024px) {
-.description_first_h3_first_2 {
-      margin-left: 722px;
-      margin-top: 220px;
-}
+  .description_first_h3_first_2 {
+    margin-left: 722px;
+    margin-top: 220px;
+  }
 }
 
 .description_first_h3_second_2 {
@@ -457,7 +454,7 @@ h6 {
 }
 
 @media screen and (max-width: 1024px) {
-.h1_description {
+  .h1_description {
     margin-top: 30px;
     line-height: 30px;
     font-size: 24px;
@@ -476,10 +473,10 @@ h6 {
 }
 
 @media screen and (max-width: 1024px) {
-#line_1 {
-  margin-left: 48px;
-      margin-right: -173px;
-      width: 1170px;
+  #line_1 {
+    margin-left: 48px;
+    margin-right: -173px;
+    width: 1170px;
   }
 }
 
@@ -493,10 +490,10 @@ h6 {
 }
 
 @media screen and (max-width: 1024px) {
-#line_2 {
-  margin-left: 48px;
-  margin-right: -173px;
-  width: 1170px;
+  #line_2 {
+    margin-left: 48px;
+    margin-right: -173px;
+    width: 1170px;
   }
 }
 
@@ -508,7 +505,9 @@ h6 {
   width: 1380px;
 }
 
-@media screen and (max-width: 1024px) { /* меньше чем 480 — меняется */
+@media screen and (max-width: 1024px) {
+
+  /* меньше чем 480 — меняется */
   #line_3 {
     margin-top: 89px;
     margin-left: 120px;
@@ -524,7 +523,9 @@ h6 {
   width: 1380px;
 }
 
-@media screen and (max-width: 1024px) { /* меньше чем 480 — меняется */
+@media screen and (max-width: 1024px) {
+
+  /* меньше чем 480 — меняется */
   #line_4 {
     margin-top: 3px;
     margin-left: 120px;
@@ -540,7 +541,9 @@ h6 {
   width: 1380px;
 }
 
-@media screen and (max-width: 1024px) { /* меньше чем 480 — меняется */
+@media screen and (max-width: 1024px) {
+
+  /* меньше чем 480 — меняется */
   #line_5 {
     /* margin-top: 3px; */
     margin-left: 120px;
@@ -660,11 +663,11 @@ h6 {
 }
 
 @media screen and (max-width: 1024px) {
-.img_first {
+  .img_first {
     margin-top: -310px;
     margin-left: 695px;
     width: 563px;
-}
+  }
 }
 
 .img_second {
@@ -674,7 +677,7 @@ h6 {
 }
 
 @media screen and (max-width: 1024px) {
-.img_second {
+  .img_second {
     margin-top: -495px;
     margin-left: 119px;
     width: 563px;
@@ -754,13 +757,14 @@ h6 {
   margin-top: -52px;
 }
 
-@media screen and (max-width: 1024px) { /* меньше чем 480 — меняется */
+@media screen and (max-width: 1024px) {
+
+  /* меньше чем 480 — меняется */
   .white_rectangle {
     margin-left: 643px;
     margin-top: -52px;
   }
 }
-
 
 .white_rectangle_2 {
   position: absolute;
@@ -852,7 +856,7 @@ h6 {
 }
 
 @media screen and (max-width: 1024px) {
-.wrap_button {
+  .wrap_button {
     margin-left: 152px;
   }
 }
