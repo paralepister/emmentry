@@ -489,7 +489,7 @@ margin-left: 480px;
 
 @media screen and (max-width: 768px) {
   .h3_fifth {
-    margin-left: 352px;
+    margin-left: 442px;
     margin-top: 57px;
     line-height: 52px;
   }
@@ -533,8 +533,8 @@ line-height: 64px;
 
 @media screen and (max-width: 768px) {
   .h3_sixth {
-    margin-left: 352px;
-    margin-top: 57px;
+    margin-left: 442px;
+    margin-top: 517px;
     line-height: 52px;
   }
 }
@@ -578,8 +578,8 @@ line-height: 64px;
 
 @media screen and (max-width: 768px) {
   .h3_seventh {
-    margin-left: 352px;
-    margin-top: 57px;
+    margin-left: 442px;
+  margin-top: 517px;
     line-height: 52px;
   }
 }
@@ -939,8 +939,8 @@ line-height: 64px;
 
 @media screen and (max-width: 768px) {
   .description_fifth_h3_second {
-    margin-left: 350px;
-    margin-top: 31px;
+    margin-left: 442px;
+    margin-top: 21px;
     font-size: 21px;
     line-height: 25px;
   }
@@ -983,8 +983,8 @@ line-height: 64px;
 
 @media screen and (max-width: 768px) {
   .description_sixth_h3_second {
-    margin-left: 350px;
-    margin-top: 31px;
+    margin-left: 442px;
+    margin-top: 21px;
     font-size: 21px;
     line-height: 25px;
   }
@@ -1028,8 +1028,8 @@ line-height: 64px;
 
 @media screen and (max-width: 768px) {
   .description_seventh_h3_second {
-    margin-left: 350px;
-    margin-top: 31px;
+    margin-left: 442px;
+    margin-top: 24px;
     font-size: 21px;
     line-height: 25px;
   }
@@ -2803,15 +2803,9 @@ display: none;
 
 @media screen and (max-width: 768px) {
   .img_fifth {
-
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .img_fifth {
-    /* margin-top: 64px;
-        margin-left: 255px;
-        width: 1035px; */
+    margin-left: 431px;
+  width: 698px;
+    margin-top: 50px;
   }
 }
 
@@ -2839,7 +2833,6 @@ display: none;
   }
 }
 
-
 .img_sixth {
   margin-left: 403px;
   margin-bottom: -505px;
@@ -2855,9 +2848,9 @@ display: none;
 
 @media screen and (max-width: 768px) {
   .img_sixth {
-    /* margin-top: 64px;
-        margin-left: 255px;
-        width: 1035px; */
+    margin-left: 429px;
+  width: 698px;
+        margin-top: 50px;
   }
 }
 
@@ -2903,9 +2896,10 @@ display: none;
 
 @media screen and (max-width: 768px) {
   .img_seventh {
-    /* margin-top: 64px;
-        margin-left: 255px;
-        width: 1035px; */
+        margin-left: 426px;
+    margin-top: 50px;
+    width: 698px;
+    margin-bottom: -370px;
   }
 }
 
