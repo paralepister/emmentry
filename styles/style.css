@@ -157,7 +157,7 @@ h1 {
     font-size: 72px;
     line-height: 74px;
     padding-left: 335px;
-    margin-top: -47px;
+    margin-top: -77px;
   }
 }
 
@@ -3808,20 +3808,21 @@ display: none;
 .mobile-menu__list {
   transition: .5s;
   list-style: none;
+  text-align: left;
   padding-left: 0;
   margin-top: -140px;
 }
 @media screen and (max-width: 768px) {
 .mobile-menu__item {
   font-size: 36px;
-  padding-bottom: 15px;
+  padding-bottom: 28px;
 }
 }
 
 @media screen and (max-width: 425px) {
 .mobile-menu__item {
   font-size: 46px;
-  padding-bottom: 39px;
+  padding-bottom: 33px;
 }
 }
 
