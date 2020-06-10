@@ -3744,7 +3744,7 @@ h6 {
   z-index: 9999999;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 769px) {
   .mobile-menu {
     display: none;
   }
